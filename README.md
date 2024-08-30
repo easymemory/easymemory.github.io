@@ -12,9 +12,7 @@
    음, 그게, 요즘 경기가 얼마나 죽었거든.  
    <span style="color: #EEEEEE;">Why is my check lower than usual?  
    Well, you see, how dead has been lately?</span>
-7. 엄마, 만약 엄마가 나를 믿지 않고, 학교에서 공부 열심히 하는 것을  
-   믿지 않았다면, 나는 이렇게 까지 해내지 못 했을 거에요.  
-   <span style="color: #EEEEEE;">Mom, if it wasn't for you believing in me and working  
-   so hard when I was in school, I never would have made it this far.</span>
+7. 엄마, 만약 엄마가 나를 믿지 않고, 학교에서 공부 열심히 하는 것을 믿지 않았다면, 나는 이렇게 까지 해내지 못 했을 거에요.  
+   <span style="color: #EEEEEE;">Mom, if it wasn't for you believing in me and working so hard when I was in school, I never would have made it this far.</span>
 8. 그래서 이거 내가 할 수 있는 그래도 최소한의 것이에요  
    <span style="color: #EEEEEE;">So, it's the least I could do.</span>
